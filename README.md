@@ -44,7 +44,7 @@ Students come with their own PC. Otherwise JobbX provides computers to them. The
 
 ### **Competing Project Goals**
 
----
+None
 
 ### **Objectives**
 
