@@ -25,7 +25,7 @@ See [all tasks](https://github.com/DataForGood-Norway/HackTechGO-2018/issues).
 
 ## What Are We Doing?
 
-This project is about mentoring young adults originating from minority background to build confidence through courses and projects in IT.
+This project is about mentoring young adults originating from minority background to build confidence through courses and projects in IT. Check the program of this semester: http://dataforgood.no/HackTechGO-2018/program_2018/
 
 ### **Performance goal**
 
